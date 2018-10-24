@@ -3,3 +3,4 @@ i realized that automating things could actually be helpful. also i really suck 
 
 1) Python web scraper (2)
 2) Twitter-analyzer using rtweets 
+3) Analysis of NARMS data for work
